@@ -73,4 +73,4 @@ typedef struct _wiser_env {
 
 #define DEFAULT_II_BUFFER_UPDATE_THRESHOLD 2048
 
-#endif /* __WISER_H__ */
+#endif
